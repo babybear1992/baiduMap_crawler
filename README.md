@@ -1,2 +1,2 @@
 # baiduMap_crawler
-crawler info from baiduMap
+craw info from baiduMap
